@@ -25,6 +25,7 @@ The exact deliverables are:
     fixtures.
  4. Sexy marketing 3D renders.
  5. Sexy marketing 3D flythrough animation.
+ 6. A geolocated KML model of the building.
 
 Optional additional deliverables are:
 
@@ -60,7 +61,7 @@ The rules of the game are:
     more information than the IFC model itself (with the one exception of
     parametric geometry). All source of truth data must lie in the IFC file.
     This includes all scheduled data, such as door information, fire ratings,
-    acoustic ratings, materials, product brochures, etc.
+    acoustic ratings, materials, product brochures, GIS CRS coordinates, etc.
  7. All documentation, including annotation and schedules, must derive from the
     IFC file. No drawing entire details in pure 2D that are disconnected
     (embedded IFC 2D is fine). No disconnected Excel tables for schedules. Even
